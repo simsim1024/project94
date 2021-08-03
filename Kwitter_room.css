@@ -1,0 +1,8 @@
+body{
+    text-align: center;
+    background-image: linear-gradient(to right top, #12c1ec, #1590b6, #3f3cf3,#0000ff, #001aff4f);
+}
+#output
+{
+	padding: 10px; width:80%;background: rgba(255,255,255,0.8);border-radius: 15px;
+}
